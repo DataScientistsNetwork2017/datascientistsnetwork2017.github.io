@@ -12,7 +12,7 @@ author: Yue
 Case Studies
 ---
 
-* Application in Human Resource Management: match job seekers and employers
+* Application in Human Resource Management: generate personalized recommendations of candidates and jobs to match job seekers and employers
 
 Reference
 ---
