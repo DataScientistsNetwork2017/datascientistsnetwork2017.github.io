@@ -12,4 +12,11 @@ author: Yue
 Case Studies
 ---
 
+* Application in Human Resource Management: match job seekers and employers
+
+Reference
+---
+
+[A Recommender System for Job Seeking and Recruiting Website](https://pdfs.semanticscholar.org/1698/3d328b140694daac34ea2b9f67b01812c3da.pdf)
+
 * #### Objective
