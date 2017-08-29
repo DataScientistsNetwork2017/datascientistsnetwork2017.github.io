@@ -9,6 +9,21 @@ tags: ['Analytics Posts']
 author: Yue
 ---
 
+Basic Models
+---
+
+* Collaborative Filtering
+
+* Content-Based
+
+* Knowledge-Based
+
+* Utility-Based
+
+* Demographic-Based
+
+* Hybrid and Ensemble-Based
+
 Case Studies
 ---
 
