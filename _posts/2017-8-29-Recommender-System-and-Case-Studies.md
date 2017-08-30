@@ -41,6 +41,8 @@ Case Studies
   
   - promotional planning
   
+  - email campaign
+  
   - online advertising: ad-tech
   
 * Application in Social Network
