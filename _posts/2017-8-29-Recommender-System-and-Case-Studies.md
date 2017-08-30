@@ -40,4 +40,4 @@ Reference
 
 [Recommender System in Retail at Shoppers Drugmart](https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Toronto-Data-Mining-Forum/Dogra&Habib-ProductRecommender.pdf)
 
-* #### Objective
+[Moving recommender systems from on-line commerce to retail stores](https://www.sg.ethz.ch/media/publication_files/art3A10.10072Fs10257-011-0170-8.pdf)
