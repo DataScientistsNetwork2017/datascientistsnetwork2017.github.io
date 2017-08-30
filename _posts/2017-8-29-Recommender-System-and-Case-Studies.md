@@ -53,6 +53,17 @@ Case Studies
   
   - Twitter: recommend accounts to follow
 
+Exercises
+---
+
+Global recommendation
+
+User-based collaborative filtering
+
+Item-based collaborative filtering
+
+[examples](http://webdam.inria.fr/Jorge/html/wdmch19.html#x25-37700018.3)
+
 Reference
 ---
 
