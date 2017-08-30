@@ -32,6 +32,14 @@ Case Studies
 * Application in Retail: 
 
   - recommend products
+  
+* Application in Marketing:
+
+  - upsell
+  
+  - cross-sell
+  
+  - promotional planning
 
 Reference
 ---
