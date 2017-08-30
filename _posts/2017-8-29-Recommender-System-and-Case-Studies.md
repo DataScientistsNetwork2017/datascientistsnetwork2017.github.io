@@ -41,9 +41,13 @@ Case Studies
   
   - promotional planning
   
+  - online advertising: ad-tech
+  
 * Application in Social Network
 
-  - Facebook: recommend newsfeed, recommend new friends, 
+  - Facebook: recommend newsfeed, recommend new friends
+  
+  - Twitter: recommend accounts to follow
 
 Reference
 ---
@@ -55,3 +59,5 @@ Reference
 [Moving recommender systems from on-line commerce to retail stores](https://www.sg.ethz.ch/media/publication_files/art3A10.10072Fs10257-011-0170-8.pdf)
 
 [Recommendation in Social Networks](https://www.cs.sfu.ca/~ester/papers/RecSys2013.Tutorial.SocialRecommendation.pdf)
+
+[A Survey of Recommender Systems in Twitter](http://www.mysmu.edu/faculty/fdzhu/paper/SocInfo%2712_57.pdf)
