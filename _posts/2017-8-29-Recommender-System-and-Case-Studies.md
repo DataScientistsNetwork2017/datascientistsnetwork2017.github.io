@@ -45,6 +45,8 @@ Case Studies
   
   - online advertising: ad-tech
   
+  - personalized pricing system
+  
 * Application in Social Network
 
   - Facebook: recommend newsfeed, recommend new friends
@@ -63,3 +65,5 @@ Reference
 [Recommendation in Social Networks](https://www.cs.sfu.ca/~ester/papers/RecSys2013.Tutorial.SocialRecommendation.pdf)
 
 [A Survey of Recommender Systems in Twitter](http://www.mysmu.edu/faculty/fdzhu/paper/SocInfo%2712_57.pdf)
+
+[Personalized Pricing Recommender System](http://www.kamishima.net/archive/2011-ws-recsys_hetrec.pdf)
